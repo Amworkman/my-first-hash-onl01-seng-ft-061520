@@ -1,4 +1,5 @@
 def my_hash
+  pets = {"Apollo" => "dog", "Freki" => "dog", "Geri" => "dog"}
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 
   
